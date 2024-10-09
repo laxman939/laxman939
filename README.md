@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxman939" alt="laxman939" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web development**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 📫 How to reach me **ramlaxman947@gmail.com**
 
